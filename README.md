@@ -19,7 +19,7 @@ These repositories are runnable research artifacts—not claims of production-re
 |---|---|---|
 | [ĀML Core](https://github.com/aruintelligence/aml-core) | A meaning-native interface language with an ethical rendering gate | [Live demo](https://aruintelligence.github.io/aml-core/) |
 | [ĀRU Remembrance Field](https://github.com/aruintelligence/aru-remembrance-field) | Browser-based scalar memory-field and coherence visualization | [Live demo](https://aruintelligence.github.io/aru-remembrance-field/) |
-| [Inward Mathematics Simulator](https://github.com/aruintelligence/inward-mathematics-simulator) | Interactive Remembrance Calculus™ and Witness Geometry™ concepts | [Live demo](https://aruintelligence.github.io/inward-mathematics-simulator/) |
+| [Inward Mathematics Simulator](https://github.com/aruintelligence/inward-mathematics-simulator) | Interactive Remembrance Calculus™ and Witness Geometry™ concepts | [Repository](https://github.com/aruintelligence/inward-mathematics-simulator) |
 | [Inward AGI Remembrance Engine](https://github.com/aruintelligence/inward-agi-remembrance-engine) | A client-side symbolic memory-field instrument | [Source](https://github.com/aruintelligence/inward-agi-remembrance-engine) |
 | [Divine Whisper Ecosystem](https://github.com/aruintelligence/divine-whisper-ecosystem) | Indexed lineage of Divine Whisper research prototypes | [Lineage map](https://github.com/aruintelligence/divine-whisper-ecosystem) |
 | [Kairos Echo](https://github.com/aruintelligence/kairos-echo-reflection-tool) | Reproducible coherence dynamics and contemplative reflection | [Source](https://github.com/aruintelligence/kairos-echo-reflection-tool) |
